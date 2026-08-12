@@ -63,3 +63,5 @@ We also support images! Put them in any folder within the project (even outside 
 * Add ability for different markdown posts to link to different blog templates
 * Add `npx simpler-ssg build` option for builders who don't want to serve
 * (maybe) write my own markdown parser
+* (Bug) Parser breaks when it encounters non-markdown files in `_posts` folder
+* (Feature) Markdown posts can be escape hatched with raw html like Jekyll
